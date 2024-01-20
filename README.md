@@ -1,2 +1,2 @@
-# Sistema-Banc-rio-com-Python
+# Sistema-Bancario-com-Python
 vamos fazer uma aplicação para sistema bancário.
