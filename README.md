@@ -1,2 +1,4 @@
 # Sistema-Bancario-com-Python
 vamos fazer uma aplicação para sistema bancário.
+
+Este código é como um assistente bancário simples em Python. Ele oferece opções para depósito, saque, extrato e sair do programa. Para mim que sou iniciantes entender como as operações são realizadas, como os limites são controlados e como as strings são manipuladas para criar o extrato. O uso de funções ajuda na organização do código, mas pode ser um novo conceito para quem está começando. Em resumo, embora seja um código curto, ele abrange conceitos fundamentais de programação em Python, como controle de fluxo, manipulação de strings e funções.
